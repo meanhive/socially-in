@@ -1,2 +1,2 @@
-# image-gallary.github.io
-Html css JavaScript Jquery Bootstrap Image Gallary template
+# Socially In Social Media Template
+Html css JavaScript Jquery Bootstrap Social Media Template
